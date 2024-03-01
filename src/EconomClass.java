@@ -8,6 +8,7 @@ public class EconomClass extends Class{
         }
     }
 
+    
     public Iterator<PersonComponent> getIterator(){
         return people.iterator();
     }
