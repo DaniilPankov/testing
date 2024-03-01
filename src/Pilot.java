@@ -9,6 +9,11 @@ public class Pilot extends Person{
         System.out.println("У пилота нет багажа.");
     }
 
+
+    
+
+
+
     @Override
     public void reduceLuggage() {
         System.out.println("У пилота нет багажа.");
