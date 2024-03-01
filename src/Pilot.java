@@ -23,4 +23,8 @@ public class Pilot extends Person{
     public int getLuggageWeight() {
         return 0;
     }
+
+    public void test3(){
+        System.out.println("test3");
+    }
 }
